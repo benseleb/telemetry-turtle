@@ -1,2 +1,2 @@
 # telemetry-turtle
-Device for measuring acceleration, orientation, and temperature of live sample shipping
+DIY device for measuring acceleration, orientation, and temperature of live sample shipping
