@@ -1,5 +1,4 @@
 # The Telemetry Turtle
-DIY arduino device for measuring acceleration, orientation, and temperature (specifically during live sample shipping)
 
 Have you ever been bubble rapping a turtle and stopped to think about what conditions they experience when their getting shipped? Me neither. 
 However, my friend, Dr. Joe Mendelson, certainly has. 
