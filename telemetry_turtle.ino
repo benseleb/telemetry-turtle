@@ -7,13 +7,15 @@ using the SD library
 //
 The circuit: 
 * SD card attached to the SPI bus as follows
-** MOSI - pin D7
-** MISO - pin 
-** CLK - pin
-** CS - pin D4
-*
+** MOSI - pin 11
+** MISO - pin 12
+** CLK - pin 13
+** CS - pin 8
+* GY-521 attached to the i2c bus as follows
+** INT - pin 2
+** SDA - pin 4
+** SDL - pin 5
 */
-
 
 // include the SD library:
 #include <SPI.h>
