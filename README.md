@@ -5,4 +5,6 @@ However, my friend, Dr. Joe Mendelson, certainly has.
 
 After a quick Google search, I found that the only shippible accelerometers were expensive commercial. I couldn't find a DIY version on the first page, so I resorted to doing it myself. 
 
+an inertial measurement unit to monitor the conditions of live turtles during shipment
+
 https://www.thingiverse.com/thing:182332/files
